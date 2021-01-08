@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+  <testsuite time="0" tests="8" failures="0" errors="0" hostname="Development Environment" id="155" name="UiBank Web Smoke Test Set" package="UiBank.Web.Smoke.Tests-3.2.*" timestamp="2020-03-13T08:13:55.227Z">
+    <testcase assertions="0" classname="UiBank.Web.Smoke.Tests" name="Create Account" status="Cancelled" time="0">
+      <system-out>Test case Create Account (v3.2.1) executed as job 2262 and took 0ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2262/logs</system-out>
+    </testcase>
+    <testcase assertions="0" classname="UiBank.Web.Smoke.Tests" name="Create Loan" status="Cancelled" time="0">
+      <system-out>Test case Create Loan (v3.2.1) executed as job 2263 and took 0ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2263/logs</system-out>
+    </testcase>
+    <testcase assertions="0" classname="UiBank.Web.Smoke.Tests" name="Create User" status="Cancelled" time="0">
+      <system-out>Test case Create User (v3.2.1) executed as job 2264 and took 0ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2264/logs</system-out>
+    </testcase>
+    <testcase assertions="0" classname="UiBank.Web.Smoke.Tests" name="Modify User Profile" status="Cancelled" time="0">
+      <system-out>Test case Modify User Profile (v3.2.1) executed as job 2265 and took 0ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2265/logs</system-out>
+    </testcase>
+    <testcase assertions="0" classname="UiBank.Web.Smoke.Tests" name="Perform Transaction" status="Cancelled" time="0">
+      <system-out>Test case Perform Transaction (v3.2.1) executed as job 2266 and took 0ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2266/logs</system-out>
+    </testcase>
+    <testcase assertions="0" classname="UiBank.Web.Smoke.Tests" name="Register Administrator" status="Cancelled" time="0">
+      <system-out>Test case Register Administrator (v3.2.1) executed as job 2267 and took 0ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2267/logs</system-out>
+    </testcase>
+    <testcase assertions="0" classname="UiBank.Web.Smoke.Tests" name="Reset Password" status="Cancelled" time="0">
+      <system-out>Test case Reset Password (v3.2.1) executed as job 2268 and took 0ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2268/logs</system-out>
+    </testcase>
+    <testcase assertions="0" classname="UiBank.Web.Smoke.Tests" name="Transfer Funds" status="Cancelled" time="0">
+      <system-out>Test case Transfer Funds (v3.2.1) executed as job 2269 and took 0ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2269/logs</system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

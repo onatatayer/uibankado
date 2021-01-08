@@ -1,0 +1,151 @@
+{
+  "name": "CICD Onat",
+  "description": "A demo project to show our CI/CD integration capabilities.",
+  "main": "Create Account.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[20.3.0-beta.798912]",
+    "UiPath.Testing.Activities": "[1.0.0-beta.837692]",
+    "UiPath.UIAutomation.Activities": "[20.2.0-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.3.0.187",
+  "projectVersion": "6.2.63662197",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "cd211bd1-71a5-4d77-93a8-a51666fcdcdc",
+        "fileName": "CreateAccount.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "da9b1acc-68ad-4708-ba2e-5593ea4f8731",
+        "fileName": "CreateLoan.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "032a8dec-a4fe-45d5-baf6-3d951d4df076",
+        "fileName": "CreateUser.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "0aca7821-299e-44e8-aa73-41515a5d1172",
+        "fileName": "DeleteAccount.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "1f7a08fb-884c-40da-9ad4-c87f7a1f5471",
+        "fileName": "ModifyUserProfile.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "25481cdb-aea1-4b1a-83a0-db9a28744923",
+        "fileName": "PerformTransaction.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "aef06138-9f6c-4b32-8b1e-cb227ba6fb94",
+        "fileName": "RegisterAdministrator.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "a5a2acf9-f0b6-43e2-ae83-aa599e0544c9",
+        "fileName": "ResetPassword.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "a016d86d-1595-436a-9bb6-a1b5894b0614",
+        "fileName": "TransferFunds.xaml"
+      }
+    ],
+    "modernBehavior": false
+  },
+  "arguments": {
+    "input": [],
+    "output": []
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "CreateAccount.xaml",
+      "uniqueId": "cd211bd1-71a5-4d77-93a8-a51666fcdcdc",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "CreateLoan.xaml",
+      "uniqueId": "da9b1acc-68ad-4708-ba2e-5593ea4f8731",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "CreateUser.xaml",
+      "uniqueId": "032a8dec-a4fe-45d5-baf6-3d951d4df076",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "DeleteAccount.xaml",
+      "uniqueId": "0aca7821-299e-44e8-aa73-41515a5d1172",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "ModifyUserProfile.xaml",
+      "uniqueId": "1f7a08fb-884c-40da-9ad4-c87f7a1f5471",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "PerformTransaction.xaml",
+      "uniqueId": "25481cdb-aea1-4b1a-83a0-db9a28744923",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "RegisterAdministrator.xaml",
+      "uniqueId": "aef06138-9f6c-4b32-8b1e-cb227ba6fb94",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "ResetPassword.xaml",
+      "uniqueId": "a5a2acf9-f0b6-43e2-ae83-aa599e0544c9",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "TransferFunds.xaml",
+      "uniqueId": "a016d86d-1595-436a-9bb6-a1b5894b0614",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {}
+}

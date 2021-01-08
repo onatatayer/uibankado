@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+  <testsuite time="20.96" tests="8" failures="3" errors="0" hostname="Development Environment" id="203" name="UiBank Web Smoke Test Set" package="UiBank.Web.Smoke.Tests-6.2.*" timestamp="2020-03-17T13:26:29.027Z">
+    <testcase assertions="0" classname="UiBank.Web.Smoke.Tests" name="Create Account" status="Passed" time="1.283">
+      <system-out>Test case Create Account (v6.2.5) executed as job 2466 and took 1283ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2466/logs</system-out>
+    </testcase>
+    <testcase assertions="1" classname="UiBank.Web.Smoke.Tests" name="Create Loan" status="Failed" time="6.844">
+      <failure message="Verification failed. The expression '1' was not equal to the expression '2'." type="Failure" />
+      <system-out>Test case Create Loan (v6.2.5) executed as job 2467 and took 6844ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2467/logs</system-out>
+    </testcase>
+    <testcase assertions="0" classname="UiBank.Web.Smoke.Tests" name="Create User" status="Passed" time="1.133">
+      <system-out>Test case Create User (v6.2.5) executed as job 2468 and took 1133ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2468/logs</system-out>
+    </testcase>
+    <testcase assertions="0" classname="UiBank.Web.Smoke.Tests" name="Modify User Profile" status="Passed" time="1.12">
+      <system-out>Test case Modify User Profile (v6.2.5) executed as job 2469 and took 1120ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2469/logs</system-out>
+    </testcase>
+    <testcase assertions="0" classname="UiBank.Web.Smoke.Tests" name="Perform Transaction" status="Passed" time="1.087">
+      <system-out>Test case Perform Transaction (v6.2.5) executed as job 2470 and took 1087ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2470/logs</system-out>
+    </testcase>
+    <testcase assertions="1" classname="UiBank.Web.Smoke.Tests" name="Register Administrator" status="Failed" time="2.773">
+      <failure message="Verification failed. The expression '1' was not equal to the expression '2'." type="Failure" />
+      <system-out>Test case Register Administrator (v6.2.5) executed as job 2471 and took 2773ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2471/logs</system-out>
+    </testcase>
+    <testcase assertions="1" classname="UiBank.Web.Smoke.Tests" name="Reset Password" status="Failed" time="2.323">
+      <failure message="Verification failed. The expression '1' was not equal to the expression '2'." type="Failure" />
+      <system-out>Test case Reset Password (v6.2.5) executed as job 2472 and took 2323ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2472/logs</system-out>
+    </testcase>
+    <testcase assertions="0" classname="UiBank.Web.Smoke.Tests" name="Transfer Funds" status="Passed" time="1.084">
+      <system-out>Test case Transfer Funds (v6.2.5) executed as job 2473 and took 1084ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/2473/logs</system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

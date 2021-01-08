@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+  <testsuite time="20.263" tests="9" failures="4" errors="0" hostname="Onat Atayer" id="21054" name="UiBank Web Smoke Test Set" package="CICD.Onat-6.2.*" timestamp="2021-01-06T19:57:33.95Z">
+    <testcase assertions="0" classname="CICD.Onat" name="CreateAccount.xaml" status="Passed" time="2.217">
+      <system-out>Test case CreateAccount.xaml (v6.2.63662197) executed as job 128597 and took 2217ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/128597/logs</system-out>
+    </testcase>
+    <testcase assertions="0" classname="CICD.Onat" name="CreateLoan.xaml" status="Passed" time="1.003">
+      <system-out>Test case CreateLoan.xaml (v6.2.63662197) executed as job 128598 and took 1003ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/128598/logs</system-out>
+    </testcase>
+    <testcase assertions="1" classname="CICD.Onat" name="CreateUser.xaml" status="Failed" time="2.763">
+      <failure message="Verification failed. The expression '1' was not equal to the expression '5'." type="Failure" />
+      <system-out>Test case CreateUser.xaml (v6.2.63662197) executed as job 128599 and took 2763ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/128599/logs</system-out>
+    </testcase>
+    <testcase assertions="0" classname="CICD.Onat" name="DeleteAccount.xaml" status="Passed" time="0.987">
+      <system-out>Test case DeleteAccount.xaml (v6.2.63662197) executed as job 128600 and took 987ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/128600/logs</system-out>
+    </testcase>
+    <testcase assertions="0" classname="CICD.Onat" name="ModifyUserProfile.xaml" status="Passed" time="1.007">
+      <system-out>Test case ModifyUserProfile.xaml (v6.2.63662197) executed as job 128601 and took 1007ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/128601/logs</system-out>
+    </testcase>
+    <testcase assertions="0" classname="CICD.Onat" name="PerformTransaction.xaml" status="Passed" time="1.01">
+      <system-out>Test case PerformTransaction.xaml (v6.2.63662197) executed as job 128602 and took 1010ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/128602/logs</system-out>
+    </testcase>
+    <testcase assertions="1" classname="CICD.Onat" name="RegisterAdministrator.xaml" status="Failed" time="2.993">
+      <failure message="Verification failed. The expression '1' was not equal to the expression '2'." type="Failure" />
+      <system-out>Test case RegisterAdministrator.xaml (v6.2.63662197) executed as job 128603 and took 2993ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/128603/logs</system-out>
+    </testcase>
+    <testcase assertions="1" classname="CICD.Onat" name="ResetPassword.xaml" status="Failed" time="2.714">
+      <failure message="Verification failed. The expression '1' was not equal to the expression '2'." type="Failure" />
+      <system-out>Test case ResetPassword.xaml (v6.2.63662197) executed as job 128604 and took 2714ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/128604/logs</system-out>
+    </testcase>
+    <testcase assertions="1" classname="CICD.Onat" name="TransferFunds.xaml" status="Failed" time="2.52">
+      <failure message="Verification failed. The expression '1' was not equal to the expression '2'." type="Failure" />
+      <system-out>Test case TransferFunds.xaml (v6.2.63662197) executed as job 128605 and took 2520ms. Logs are available at https://orch-testingsol-web0-we-webapp.azurewebsites.net/jobs/128605/logs</system-out>
+    </testcase>
+  </testsuite>
+</testsuites>
